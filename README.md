@@ -1,2 +1,2 @@
-# Boba-Drops
-https://boba.hackclub.com/
+# Boba Drops Projects Data
+Website: https://boba.hackclub.com/
